@@ -1,8 +1,8 @@
 ## Mike Kenzer
 KX Certifications
 
- [q Level 1] 
- (https://github.com/mi156321/KX-certifications/blob/main/q-Developer%E2%80%93Level-1/1.pdf)
+ [q Level 1](https://github.com/mi156321/KX-certifications/blob/main/q1.pdf) 
+ 
  
  q Level 2
 
