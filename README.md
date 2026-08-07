@@ -7,7 +7,7 @@ KX Certifications :
  [q Developer Level 2](https://github.com/mi156321/KX-certifications/blob/main/q2/2.pdf)
 
 
- Check out the [official documentation](https://docs.github.com) for more details.
+
 <!--
 **mi156321/mi156321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
