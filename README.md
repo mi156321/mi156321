@@ -8,6 +8,7 @@
    
  - [KDB-X Python Level 1](https://github.com/mi156321/KX-certifications/blob/main/kdb_x_python_level_1/python_level_1.pdf)
 
+- [KDB-X Architecture](https://github.com/mi156321/KX-certifications/blob/main/architecture/architecture.pdf)
 
 
 <!--
