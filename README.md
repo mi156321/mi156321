@@ -6,7 +6,7 @@
  
  - [q Developer Level 2](https://github.com/mi156321/KX-certifications/blob/main/q2/2.pdf)
    
- - [KDB-X Python Level 1](https://github.com/mi156321/KX-certifications/blob/main/python-level_1/python-level1.pdf)
+ - [KDB-X Python Level 1](https://github.com/mi156321/KX-certifications/blob/main/kd_x_python_level_1/python_level_1.pdf)
 
 
 
